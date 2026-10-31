@@ -1,43 +1,69 @@
-
-# 💫 Hi 👋, I'm Mohammed Fardeen
-**A passionate Data Analyst || Computer Science Engineering ||  Analyst from India**
-
-Email Me 👉 ✉️ **moahammedfardeen@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** Data Analyst Intern
-- 🌱 **I’m currently learning:** PowerBi
-- 🤔 **I’m looking for help with:** E Vehciles
-- 💬 **Ask me about:** Analyst,Tech Support
-- 📫 **How to reach me:** moahammedfardeen@gmail.com
-- 😄 **Pronouns:** Fardeen
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me 💫
-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MohammedFardeen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__mohammed__fardeen__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MoahammedFardeen) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MoahammedFarde1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@moahammedfardeen1836) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moahammedfardeen@gmail.com)
-<!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+#         I'm Mohammed Fardeen 👋
+
+### 🚀 Python Backend Developer | AI & Data Solutions
+**Bangalore, India** • Passionate about building intelligent web applications, robust backends, and data-driven systems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mmohammed-fardeen/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAIKHMDFARDEEN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedfardeen@gmail.com)
+
 </div>
 
- 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SHAIKHMDFARDEEN&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SHAIKHMDFARDEEN&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHAIKHMDFARDEEN&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
+### 🌟 Featured Project
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SHAIKHMDFARDEEN&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<table>
+  <tr>
+    <td>
+      <h3>🚀 <a href="https://github.com/SHAIKHMDFARDEEN/Ai_Resume_Analyzer_project">AI Resume Analyzer & Career Copilot</a></h3>
+      <p>An intelligent full-stack career platform that analyzes resumes (PDF/DOCX/text), computes ATS match scores, detects skill gaps, and recommends actionable learning roadmaps using OpenAI GPT-4o.</p>
+      <p>
+        <a href="https://ai-resume-analyzer-project-sdz9.onrender.com"><b>🌐 Live Demo</b></a> • 
+        <a href="https://github.com/SHAIKHMDFARDEEN/Ai_Resume_Analyzer_project"><b>💻 Source Code</b></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Flask-3.1-black?style=flat&logo=flask" />
+        <img src="https://img.shields.io/badge/Python-3.13-blue?style=flat&logo=python" />
+        <img src="https://img.shields.io/badge/OpenAI-GPT--4o-purple?style=flat&logo=openai" />
+        <img src="https://img.shields.io/badge/TiDB%20Cloud-MySQL-red?style=flat&logo=mysql" />
+        <img src="https://img.shields.io/badge/SQLAlchemy-ORM-orange?style=flat" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SHAIKHMDFARDEEN&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Tech Stack & Skills
+
+- **Languages**: Python, SQL
+- **Backend & Frameworks**: Flask, SQLAlchemy, RESTful APIs, Fastapi 
+- **Databases**: TiDB Cloud Serverless MySQL, PostgreSQL, SQLite
+- **AI & Libraries**: OpenAI API (GPT-4o), PyPDF2, python-docx
+- **Tools & Deployment**: Git, GitHub, Render, VS Code, Docker, Dbeaver
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,flask,mysql,postgres,git,github,vscode,html,css" />
+</div>
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHAIKHMDFARDEEN&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAIKHMDFARDEEN&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+---
+
+### 💬 Let's Connect!
+
+- 💼 **LinkedIn**: [linkedin.com/in/mmohammed-fardeen](https://www.linkedin.com/in/mmohammed-fardeen/)
+- 📧 **Email**: [mohammedfardeen@gmail.com](mailto:mohammedfardeen@gmail.com)
+- 🤝 Open to software engineering roles, backend projects, and collaborations!
